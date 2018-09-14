@@ -1,7 +1,7 @@
-# Kording lab (Bayesian Behavior Lab) page
+# Jeon lab (Cognitive Neuroscience Lab) page
 
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is repository forked from [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 
 ## Run the page locally
