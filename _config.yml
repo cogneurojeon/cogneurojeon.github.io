@@ -1,15 +1,15 @@
 # # # # # # # #
-#   K i k o   #
+#  M i n h o  #
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "as called as Bayesian Behavior Lab"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab based in Rehabilitation Institute of Chicago and Northwestern University, Chicago"
+name:               "Jeon lab"
+title:              "as called as Cognitive Neuroscience Lab"
+description:        "this is a page for Jeon lab, we are cognitive neurosciece and neuroimaging lab based in DGIST"
 
 
 # URL
-url:                http://kordinglab.github.io
+url:                https://cogneurojeon.github.io/
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
