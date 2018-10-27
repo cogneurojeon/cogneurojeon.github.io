@@ -3,7 +3,7 @@ name: Hugo Fernandes
 position: alumni
 avatar: hugo_profile.jpg
 twitter:
-joined: 2013
+joined: 2090
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/hugo_profile.jpg" data-action="zoom">
