@@ -43,7 +43,7 @@ permalink: /people/
 <hr>
 {% endfor %}
 
-
+<!--
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn
@@ -90,3 +90,4 @@ permalink: /people/
 | Taro Kiritani | Rotation Student (Winter 2007) | Gordon Shepard's Lab at Northwestern |
 | Rashmi Sarnaik | Rotation Student (Winter 2007) | JC Cang's Lab at Northwestern |
 | Emily Oby | Rotation Student (Fall 2006) | Lee Miller's Lab at Northwestern |
+-->
