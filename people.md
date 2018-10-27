@@ -42,7 +42,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| Byeongchan Jeon | Undergrad Research (2018) | - |
+| [Byoungchan Chun](https:/cogneurojeon.github.io/people/byoungchan_chun/index.html) | Undergrad Research (2018) | - |
 
 <!--
 | Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn
