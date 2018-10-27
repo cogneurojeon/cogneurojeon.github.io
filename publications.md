@@ -17,7 +17,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### 2016
 
 _What does "being an expert" mean to the brain? Functional specificity and connectivity in expertise_<br>
-Jeon, H.-A. & Friederici, A. D.<br>
+__Jeon, H.-A.__ & Friederici, A. D.<br>
 Cerebral Cortex, 2016 ([Abstract](https://doi.org/10.1093/cercor/bhw329))
 
 <hr>
@@ -25,7 +25,7 @@ Cerebral Cortex, 2016 ([Abstract](https://doi.org/10.1093/cercor/bhw329))
 ### 2015
 
 _Degree of automaticity and the prefrontal cortex_<br>
-Jeon, H.-A., Friederici, A. D.<br>
+__Jeon, H.-A.__, Friederici, A. D.<br>
 Trends in Cognitive Sciences, 2015 ([Abstract](https://www.nae.edu/Publications/Bridge/176887/176976.aspx))
 
 <hr>
