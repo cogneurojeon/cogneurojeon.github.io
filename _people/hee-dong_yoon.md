@@ -10,7 +10,7 @@ joined: 2017,Sep
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `hyoon0410@dgist.ac.kㄱ`<br>
+<i class="fa fa-envelope-o"></i>  `hyoon0410@dgist.ac.kr`<br>
 <!-- 
 <i class="fa fa-building"></i> RIC 1481 <br>
 <i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=GW6D4ZIAAAAJ&hl=en) <br>
