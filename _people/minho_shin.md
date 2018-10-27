@@ -1,6 +1,6 @@
 ---
 name: Minho Shin
-position: others
+position: assistant
 avatar:
 twitter:
 joined: 2018
