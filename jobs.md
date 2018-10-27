@@ -30,9 +30,8 @@ The position entails contribution to ongoing research involving neuroimaging (fu
 
 **Skills and Qualifications:**
 
-A PhD degree in psychology, neuroscience, cognitive science, cognitive neuroscience, neuroimaging, biomedical engineering or equivalent.
-
-Research experience in behavioral experiment and brain imaging.
+- A PhD degree in psychology, neuroscience, cognitive science, cognitive neuroscience, neuroimaging, biomedical engineering or equivalent.
+- Research experience in behavioral experiment and brain imaging.
 
 
 
