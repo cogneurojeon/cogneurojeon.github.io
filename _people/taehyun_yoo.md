@@ -1,16 +1,16 @@
 ---
-name: Kyung Hwan Cheon
+name: Taehyun Yoo
 position: gradstudent
 avatar:
 twitter:
-joined: 2017,March
+joined: 2018,Mar
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `phirity@dgist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `yth2654@dgist.ac.kr`<br>
 <!-- 
 <i class="fa fa-building"></i> RIC 1481 <br>
 <i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=GW6D4ZIAAAAJ&hl=en) <br>
@@ -20,7 +20,7 @@ joined: 2017,March
 
 ### Bio
 
-Kyung Hwan received his bachelor's degree in psychology and life science from Chung-Ang University, Seoul, Korea in 2016. During undergraduate years he was interested in studying high-level cognition of human brain, especially with healthy adults. In the Jeon lab, he is currently focusing on syntactic hierarchy of natural language with brain imaging techniques including fMRI.
+Taehyun graduated from DGIST in 2018 with a bachlor's degree in convergence science. He used to be a "super-intern" in the Jeon Lab in 2017 and finally became the lab member since March in 2018. He is so much interested in the processing of hierarchical structure using multi-sensory information.  He loves playing soccer.
 
 <hr>
 
