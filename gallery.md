@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /Gallery/
+permalink: /gallery/
 ---
 
 # To be updated...!
