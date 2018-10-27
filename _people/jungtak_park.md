@@ -1,16 +1,16 @@
 ---
-name: Kyung Hwan Cheon
+name: Jungtak Park
 position: gradstudent
 avatar:
 twitter:
-joined: 2017,March
+joined: 2018,Mar
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `phirity@dgist.ac.kr`<br>
+<i class="fa fa-envelope-o"></i>  `jungtak05@dgist.ac.krr`<br>
 <!-- 
 <i class="fa fa-building"></i> RIC 1481 <br>
 <i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=GW6D4ZIAAAAJ&hl=en) <br>
@@ -20,7 +20,7 @@ joined: 2017,March
 
 ### Bio
 
-Kyung Hwan received his bachelor's degree in psychology and life science from Chung-Ang University, Seoul, Korea in 2016. During undergraduate years he was interested in studying high-level cognition of human brain, especially with healthy adults. In the Jeon lab, he is currently focusing on syntactic hierarchy of natural language with brain imaging techniques including fMRI.
+Jungtak graduated from DGIST in 2018 with a bachelor's degree in convergence science. He was one of the "super-interns" and now he is ready to become a "super-researcher" focusing on functional connectivity in learning sequences.
 
 <hr>
 
