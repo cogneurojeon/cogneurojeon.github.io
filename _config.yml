@@ -34,6 +34,14 @@ nav:
     href:           "/blog"
   - name:           "resources"
     href:           "/resources"
+  - name:           "participate"
+    href:           "/participate"
+  - name:           "jobs"
+    href:           "/jobs"
+  - name:           "gallery"
+    href:           "/gallery"
+  - name:           "contact us"
+    href:           "/contact"
 
 # Sass
 sass:
