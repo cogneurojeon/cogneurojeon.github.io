@@ -4,21 +4,25 @@ permalink: /people/
 ---
 
 {% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "pi|postdoc|gradstudent|visiting|others|alumni" | split: "|" %}
+{% assign people_array = "pi|postdoc|gradstudent|visiting|assistant|alumni" | split: "|" %}
 
 {% for item in people_array %}
 
 <div class="pos_header">
-{% if item == 'postdoc' %}
-<h3>Postdoctoral Fellows</h3>
- {% elsif item == 'pi' %}
+{% if item == 'pi' %}
 <h3>Principal Investigator</h3>
+<!--
+ {% elsif item == 'postdoc' %}
+<h3>Postdoctoral Fellows</h3>
+-->
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
+<!--
  {% elsif item == 'visiting' %}
 <h3>Visiting Scholars</h3>
- {% elsif item == 'others' %}
-<h3>Honorary Members</h3>
+-->
+ {% elsif item == 'assistant' %}
+<h3>Research Assistants</h3>
  {% elsif item == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
@@ -43,9 +47,11 @@ permalink: /people/
 <hr>
 {% endfor %}
 
-<!--
+
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| Byeongchan Jeon | Undergrad Research (2018) | 
+<!--
 | Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn
 | Bahram Yoosefizonooz | Visiting (2017) | Postdoc at U Montreal
 | Elahe Arani | Visiting (2017) | Postdoc at U Montreal
