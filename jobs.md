@@ -11,7 +11,7 @@ Applications are now open for the 2018 Summer Internship in the Department of Br
 <hr>
 
 ## **POSITIONS AVAILABLE FOR GRADUATE STUDENTS**
-The Jeon lab has openings available for new graduate students to start in 2017. If you are interested, please contact me via email (jeonha@dgist.ac.kr) and see the web-page below .
+The Jeon lab has openings available for new graduate students to start in 2019. If you are interested, please contact me via email (jeonha@dgist.ac.kr) and see the web-page below .
 
 [Admission Webpage](http://admission.dgist.ac.kr/site/dgist_admission/menu/430.do)
 <hr>
