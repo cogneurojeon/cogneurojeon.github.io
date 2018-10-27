@@ -297,9 +297,11 @@ tbody tr:nth-child(odd) th {
   }
 }
 
-.navbar-fixed-top {
-     width:150%; /* same as width of col-md-8 */
-     margin:0 auto;
+.container-fluid {
+  max-width: 60rem;
+//  padding: 2rem 1.5rem;
+  margin-left:  auto;
+  margin-right: auto;
 }
 
 .masthead {
