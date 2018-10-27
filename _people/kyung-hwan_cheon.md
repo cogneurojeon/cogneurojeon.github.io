@@ -1,28 +1,30 @@
 ---
-name: Ari Benjamin
+name: Kyung Hwan Cheon
 position: gradstudent
-avatar: ari_benjamin.jpg
+avatar:
 twitter:
-joined: 2016
+joined: 2017,March
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `aarrii@seas.upenn.edu`<br>
+<i class="fa fa-envelope-o"></i>  `phirity@dgist.ac.kr`<br>
+<!-- 
 <i class="fa fa-building"></i> RIC 1481 <br>
 <i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=GW6D4ZIAAAAJ&hl=en) <br>
  [ari-benjamin.com](http://ari-benjamin.com)
-
+ -->
 <hr>
 
 ### Bio
 
-After graduating from Williams College with a degreee in physics, teaching high school chemistry for a year in Mexico, and obtaining a master's in nanoscale simulation and biomaterials at Northwestern, I joined this awesome lab for computational neuroscience! I'm all about nonlinear life trajectories, which is fair, since the brain is nonlinear too. 
+Kyung Hwan received his bachelor's degree in psychology and life science from Chung-Ang University, Seoul, Korea in 2016. During undergraduate years he was interested in studying high-level cognition of human brain, especially with healthy adults. In the Jeon lab, he is currently focusing on syntactic hierarchy of natural language with brain imaging techniques including fMRI.
 
 <hr>
 
 ### Research Interests
-
+<!--
 What does deep learning have to say about how the brain works? (How does deep learning work?) What is the most fruitful and insightful way to conceptualize the brain?
+-->
