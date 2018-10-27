@@ -3,7 +3,8 @@ title: Blog
 permalink: /news/
 ---
 
-## **Latest Posts**
+## **Latest News**
+<hr>
 
 <div class="content list">
   {% for post in site.posts %}
