@@ -542,3 +542,18 @@ tbody tr:nth-child(odd) th {
   border: none;
   background-color: #FFF;
 }
+
+@media (min-width: 1000px){
+  .navbar-toggle {
+      display: none;
+  }
+  .navbar-header {
+    float: left;
+  }
+  .navbar-collapse.collapse {
+    display: block!important;
+    height: auto!important;
+    padding-bottom: 0;
+    overflow: visible!important;
+  }
+}
