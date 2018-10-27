@@ -18,15 +18,21 @@ The Jeon lab has openings available for new graduate students to start in 2017. 
 
 ## **JOB OPENING FOR A POST-DOCTORAL RESEARCHER**
 
+
 **Position Description:**
+
 We are seeking a postdoctoral researcher who can augment and extend the current research strengths of the lab and who have strong research potential.
 
+
 **Key Responsibilities:**
+
 The position entails contribution to ongoing research involving neuroimaging (functional/structural MRI, diffusion MRI) as well as behavioral experiment in cognitive neuroscience. In addition to hands-on conduct of experiments, duties will also include manuscript preparation, presentation of findings at conferences, and oversight of research activities of PhD students.
+
 
 **Skills and Qualifications:**
 - A PhD degree in psychology, neuroscience, cognitive science, cognitive neuroscience, neuroimaging, biomedical engineering or equivalent.
 - Research experience in behavioral experiment and brain imaging.
+
 
 If you are interested, please send your CV to jeonha@dgist.ac.kr with "Job application for a post-doctoral researcher" in the title.
 
