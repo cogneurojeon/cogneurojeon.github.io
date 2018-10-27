@@ -1,8 +1,8 @@
 ---
 name: Subject Zero
-position: others
+position: assistant
 avatar: subject_zero.jpg
-joined: -300000000
+joined: 6000
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
