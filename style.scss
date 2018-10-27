@@ -283,15 +283,17 @@ tbody tr:nth-child(odd) th {
   font-size: 1.25rem;
 }
 
-.container {
+.container-fluid {
   max-width: 40rem;
 //  padding: 2rem 1.5rem;
   margin-left:  auto;
   margin-right: auto;
 
   @media (min-width: 40rem){
-    padding: 5rem 1rem;
-    width: 100%;
+ //   padding: 5rem 1rem;
+    margin-left:  auto;
+    margin-right: auto;
+    width: 90%;
   }
 }
 
