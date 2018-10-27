@@ -1,8 +1,8 @@
 ---
-name: Bahram Yoosefizonooz
+name: Byoungchan Chun
 position: alumni
-avatar: bahram.jpg
-joined: 2016
+avatar:
+joined: 2018, March
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
