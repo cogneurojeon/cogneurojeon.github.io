@@ -1,6 +1,6 @@
 ---
 title: Blog
-permalink: /blog/
+permalink: /news/
 ---
 
 ### **Blog posts from the lab**
