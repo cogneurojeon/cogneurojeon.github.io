@@ -9,11 +9,10 @@ layout: default
         <img class='img-responsive center-block' src="/images/people/klab_chicago_2.jpg" />
       </div>
       -->
-      <div class='img-responsive center-block'>
-        <img class='main-slides' src="/images/12_1.jpg" width="70%" height="70%"/> <!-- onmouseover="this.src='/images/people/klab_chicago_2.jpg'" width="70%" height="70%" onmouseout="this.src='/images/people/klab_chicago.jpg'" width="70%" height="70%" /> -->
-        <img class='main-slides' src="/images/people/klab_chicago_2.jpg" width="70%" height="70%"/>
-        <img class='main-slides' src="/images/people/klab_chicago.jpg" width="70%" height="70%"/>
-      </div>
+      <img class='img-responsive center-block' src="/images/12_1.jpg" width="70%" height="70%"/> <!-- onmouseover="this.src='/images/people/klab_chicago_2.jpg'" width="70%" height="70%" onmouseout="this.src='/images/people/klab_chicago.jpg'" width="70%" height="70%" /> -->
+      <img class='img-responsive center-block' src="/images/people/klab_chicago_2.jpg" width="70%" height="70%"/>
+      <img class='img-responsive center-block' src="/images/people/klab_chicago.jpg" width="70%" height="70%"/>
+
       
       <!-- for automatic slideshow-->
       <script>
@@ -22,14 +21,14 @@ layout: default
 
       function carousel() {
         var i;
-        var x = document.getElementsByClassName('main-slides');
+        var x = document.getElementsByClassName('img-responsive center-block');
         for (i = 0; i < x.length; i++) {
           x[i].style.display = "none";  
         }
         myIndex++;
         if (myIndex > x.length) {myIndex = 1}    
         x[myIndex-1].style.display = "block";  
-        setTimeout(carousel, 2000); // Change image every 2 seconds
+        setTimeout(carousel, 5000); // Change image every 2 seconds
       }
       </script>
         
