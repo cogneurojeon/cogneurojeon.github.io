@@ -2,6 +2,7 @@
 name: Hyeon-Ae Jeon
 position: pi
 avatar:
+joined:
 twitter:
 ---
 
