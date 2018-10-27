@@ -3,7 +3,7 @@ name: Jungtak Park
 position: gradstudent
 avatar:
 twitter:
-joined: 2018,Mar
+joined: 2018
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
