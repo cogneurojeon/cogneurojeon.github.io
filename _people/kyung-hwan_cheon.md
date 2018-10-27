@@ -3,7 +3,7 @@ name: Kyung Hwan Cheon
 position: gradstudent
 avatar:
 twitter:
-joined: 2017,March
+joined: 2017
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
