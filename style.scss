@@ -556,4 +556,8 @@ tbody tr:nth-child(odd) th {
     padding-bottom: 0;
     overflow: visible!important;
   }
+  .navbar-right {
+    float: right!important;
+    margin-right: -15px;
+  }
 }
