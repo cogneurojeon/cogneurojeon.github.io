@@ -284,7 +284,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .container {
-  max-width: 60rem;
+  max-width: 40rem;
 //  padding: 2rem 1.5rem;
   margin-left:  auto;
   margin-right: auto;
@@ -295,6 +295,10 @@ tbody tr:nth-child(odd) th {
  //   padding-right: 5rem;
  //   width: 90%;
   }
+}
+.navbar-fixed-top {
+     width:66.66%; /* same as width of col-md-8 */
+     margin:0 auto;
 }
 
 .masthead {
