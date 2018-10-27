@@ -39,21 +39,3 @@ If you are interested, please send your CV to jeonha@dgist.ac.kr with "Job appli
 
 [Job description in Korean](http://www.ibric.org/myboard/read.php?Board=job_recruit&id=487778&selflevel=-1)
 
-
-<?
-## **Latest News**
-<hr>
-
-<div class="content list">
-  {% for post in site.posts %}
-    {% if post.categories contains 'news' %}
-    <div class="list-item">
-      <h3 class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <small>({{post.date | date: "%m/%d/%y" }})</small></a> 
-      </h3>
-      <p>{{ post.excerpt }}</p>
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
-?>
