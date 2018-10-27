@@ -16,10 +16,10 @@ permalink: /people/
 
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
-<!--
+{::comment}
  {% elsif item == 'visiting' %}
 <h3>Visiting Scholars</h3>
--->
+{:/comment}
  {% elsif item == 'assistant' %}
 <h3>Research Assistants</h3>
  {% elsif item == 'alumni' %}
