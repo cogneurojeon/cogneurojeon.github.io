@@ -2,8 +2,8 @@
 name: Hyeon-Ae Jeon
 position: pi
 avatar:
-joined:
 twitter:
+joined: 2016
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
