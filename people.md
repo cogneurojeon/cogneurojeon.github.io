@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "pi|postdoc|gradstudent|visiting|assistant|alumni" | split: "|" %}
+{% assign people_array = "pi|gradstudent|assistant|alumni" | split: "|" %}
 
 {% for item in people_array %}
 
@@ -50,7 +50,8 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| Byeongchan Jeon | Undergrad Research (2018) | 
+| Byeongchan Jeon | Undergrad Research (2018) | - |
+
 <!--
 | Xuelong Zhao | Postdoc (2016) | Postdoc at [Brian Litt  lab](http://littlab.seas.upenn.edu/), U Penn
 | Bahram Yoosefizonooz | Visiting (2017) | Postdoc at U Montreal
