@@ -3,7 +3,7 @@ title: People
 permalink: /people/
 ---
 
-{% assign people_sorted = (site.people | sort: 'joined' %}
+{% assign people_sorted = site.people | sort: 'joined' %}
 {% assign people_array = "pi|gradstudent|assistant|alumni" | split: "|" %}
 
 {% for item in people_array %}
@@ -42,6 +42,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Kyung Hwan Cheon](https:/cogneurojeon.github.io/people/kyung-hwan_cheon/index.html) | Graduate student (2017 - 2018) | - |
 | [Byoungchan Chun](https:/cogneurojeon.github.io/people/byoungchan_chun/index.html) | Undergrad Researcher (2018) | - |
 
 <!--

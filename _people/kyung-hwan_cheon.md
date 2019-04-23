@@ -1,6 +1,6 @@
 ---
 name: Kyung Hwan Cheon
-position: gradstudent
+position: alumni
 avatar:
 twitter:
 joined: 2017

@@ -84,3 +84,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Local files
+.vscode
+Gemfile*
